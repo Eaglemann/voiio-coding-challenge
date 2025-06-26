@@ -1,0 +1,10 @@
+[project]
+name = "voiio"
+version = "0.1.0"
+description = "voiio task challenge"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "plyer>=2.1.0",
+    "requests>=2.32.4",
+]
