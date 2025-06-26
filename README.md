@@ -15,7 +15,7 @@ Requirements:
    uv install
    ```
 2. Run the script:
-   `bash
+   ```bash
    uv run main.py
-    `
+    ```
    The script will then run continuously and notify you when it's time to leave. The script is assumming the trains are only every 1h.
